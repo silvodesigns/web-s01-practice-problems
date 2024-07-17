@@ -4,11 +4,10 @@
 
 Each folder inside this repository corresponds to a **Learning Objective** in your learning platform, and includes an `index.html` file containing practice problems and a `solution.html` file containing the solutions.
 
-**In order to work on a set of practice problems:**
+**In order to work on a particular set of practice problems:**
 
-1. Clone this repository to your computer. (You only need to do this once!)
-2. Open the desired `index.html` file using VSCode.
-3. Open `index.html` using Chrome.
+1. Open the desired `index.html` file using VSCode.
+2. Open `index.html` using Chrome.
 
 **In order to _write_ your code, use VSCode.**
 
