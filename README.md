@@ -66,6 +66,6 @@ If you get stuck, check the `solution.html` file.
 3. [Understanding Nested Tags](./m4-1-3-understanding_nested_tags/index.html)
 4. [Using HTML Tag Attributes](./m4-1-4-using_html_tag_attributes/index.html)
 5. [Using the Style Tag to Apply CSS to a Page](./m4-2-1-using_the_style_tag_to_apply_css_to_a_page/index.html)
-6. [Including the Script Tag for Added Functionality on a Webpage](./m4-2-2-including_the_script_tag_for_added_functionality_on_a_webpage/index.html)
+6. [Including the Script Tag for Added Functionality](./m4-2-2-including_the_script_tag_for_added_functionality/index.html)
 7. [Opening Chrome Dev Tools](./m4-3-1-opening_chrome_dev_tools/index.html)
-8. [Using the Chrome Dev Tools to Investigate and Manipulate Web Pages](./m4-3-2-using_the_chrome_dev_tools_to_investigate_and_manipulate_web_pages/index.html)
+8. [Using the Chrome Dev Tools to Investigate Web Pages](./m4-3-2-using_the_chrome_dev_tools_to_investigate_web_pages/index.html)
