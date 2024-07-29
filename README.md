@@ -6,13 +6,13 @@ Each subfolder inside this project corresponds to a **Learning Objective** in yo
 
 ## Instructions
 
-1. Unzip and save this project in a location you can later find easily.
+1. Unzip and save this project to a location you can later find easily.
 2. Install the [Live Server extension for VSCode](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
 **In order to work on a particular set of practice problems:**
 
-1. Open this whole project folder in VSCode.
-2. Locate the subfolder containing the practice problems you wish to practice on (E.G. `m1-2-1-understanding_primitive_types`).
+1. Open the whole project folder in VSCode.
+2. Locate the subfolder containing the practice problems you wish to work on (E.G. `m1-2-1-understanding_primitive_types`).
 3. Open `index.html` in your **VSCode text editor** by left-clicking on the file in VSCode's file Explorer.
 4. Open `index.html` in your **Chrome browser**, by right-clicking the file in VSCode's file Explorer and selecting "Open in Live Server".
 5. If you get stuck, check the `solution.html` file.
