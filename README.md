@@ -15,7 +15,8 @@ Each subfolder inside this project corresponds to a **Learning Objective** in yo
 2. Locate the subfolder containing the practice problems you wish to work on (E.G. `m1-2-1-understanding_primitive_types`).
 3. Open `index.html` in your **VSCode text editor** by left-clicking on the file in VSCode's file Explorer.
 4. Open `index.html` in your **Chrome browser**, by right-clicking the file in VSCode's file Explorer and selecting "Open in Live Server".
-5. If you get stuck, check the `solution.html` file.
+5. Keep the Console open in Chrome, to see what errors show up.
+6. If you get stuck, check the `solution.html` file.
 
 ## Index
 
