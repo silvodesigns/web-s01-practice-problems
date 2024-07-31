@@ -4,21 +4,25 @@
 
 Each subfolder inside this project corresponds to a **Learning Objective** in your learning platform, and includes an `index.html` file containing practice problems and a `solution.html` file containing the solutions.
 
-## Instructions
+## Setup Instructions
 
-1. Unzip and save this project to a location you can later find easily.
-2. Install the [Live Server extension for VSCode](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+1. To watch a video demonstration of these instructions, click [HERE](https://bloomtech-1.wistia.com/medias/wzc5y598ke).
+2. Unzip and save this repository to a location in your computer you can find easily.
+3. Install the [Live Server extension for VSCode](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
 **In order to work on a particular set of practice problems:**
 
-1. Open the whole project folder in VSCode.
+1. Open the repository folder in VSCode.
 2. Locate the subfolder containing the practice problems you wish to work on (E.G. `m1-2-1-understanding_primitive_types`).
 3. Open `index.html` in your **VSCode text editor** by left-clicking on the file in VSCode's file Explorer.
 4. Open `index.html` in your **Chrome browser**, by right-clicking the file in VSCode's file Explorer and selecting "Open in Live Server".
-5. Keep the Console open in Chrome, to see what errors show up.
-6. If you get stuck, check the `solution.html` file.
+5. Code in VSCode, and watch your changes play out in the browser's console (**Ctrl + Shift + J** on Windows, **Cmd + Option + J** on MacOS).
 
-## Index
+**If you get stuck:**
+
+1. Check the `solution.html` file for the practice problems you are working on.
+
+## Index of Problems
 
 ### Module 1 - First Steps Into JavaScript
 
